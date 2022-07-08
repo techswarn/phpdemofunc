@@ -1,0 +1,5 @@
+packages:
+  - name: main
+    actions:
+      - name: n2w
+        runtime: "php:default"
